@@ -58,5 +58,4 @@ summary(cars)
 
 ![Paris](images/Untitled.jpg){#fig-paris}
 
-
 See @fig-paris for an illustration.
